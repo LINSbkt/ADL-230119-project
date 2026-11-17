@@ -1,4 +1,4 @@
-# Building and Improving a Local RAG System
+# FINAL PROJECT - Building and Improving a Local RAG System
 
 CS311 - Advanced Deep Learning final project (Khanh Tran - 230119). This repository implements a fully local Retrieval-Augmented Generation (RAG) assistant for Fulbright University Vietnam’s **B.S. Integrated Sciences** major handbook.
 
@@ -109,8 +109,7 @@ docker compose ps
 ```
 
 Open http://localhost:8501 after the `rag` service is healthy. Run the `ollama pull`
-commands from a second terminal in this same `docker/` directory. The handbook index is
-created automatically on first use if it does not already exist.
+commands from a second terminal in this same `docker/` directory. 
 
 Volumes:
 
@@ -125,7 +124,7 @@ docker compose -f docker-compose.yml -f docker-compose.host-ollama.yml up --buil
 
 ## Configuration
 
-Environment variables (optional):
+Environment variables:
 
 | Variable | Default |
 | --- | --- |
