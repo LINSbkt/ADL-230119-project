@@ -1,0 +1,33 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: adl-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+    restart: unless-stopped
+
+  rag:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: adl-is-rag:latest
+    container_name: adl-is-rag
+    depends_on:
+      - ollama
+    ports:
+      - "8501:8501"
+    environment:
+      OLLAMA_BASE_URL: http://ollama:11434
+      RAG_DATA_DIR: /app/data/pdfs
+      RAG_VECTOR_STORE: /app/data/pdfs/vector_store
+      RAG_COLLECTION: is_handbook
+      RAG_EMBED_MODEL: nomic-embed-text
+      RAG_LLM_MODEL: qwen2.5:0.5b
+    volumes:
+      - ../source_code/data:/app/data
+    restart: unless-stopped
+
+volumes:
+  ollama_models:

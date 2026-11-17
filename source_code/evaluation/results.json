@@ -1,0 +1,512 @@
+{
+  "created_at": "2026-11-15T19:05:23.808060+00:00",
+  "llm_model": "qwen2.5:0.5b",
+  "embed_model": "nomic-embed-text",
+  "ollama_url": "http://127.0.0.1:11434",
+  "results": [
+    {
+      "id": "Q1",
+      "category": "program_requirements",
+      "expected_notes": "Two concentrations: Environmental Science and Sustainability; Biology and Health Science.",
+      "question": "What are the two concentrations in the B.S. Integrated Sciences major?",
+      "answer": "The two concentrations in the B.S. Integrated Sciences major are Environmental Science and Sustainability and Biology and Health Science.",
+      "used_fallback": false,
+      "avg_score": 0.6923,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 9,
+          "score": 0.7371
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.7147
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6774
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 1,
+          "score": 0.6766
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.6557
+        }
+      ]
+    },
+    {
+      "id": "Q2",
+      "category": "program_requirements",
+      "expected_notes": "Required foundation courses are General Chemistry and Introductory Biology (8 credits).",
+      "question": "What are the required foundation courses for the Integrated Sciences major?",
+      "answer": "The required foundation courses for the Integrated Sciences major are General Chemistry and Introductory Biology.",
+      "used_fallback": false,
+      "avg_score": 0.7039,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.7307
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.7267
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6957
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.6877
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 9,
+          "score": 0.6787
+        }
+      ]
+    },
+    {
+      "id": "Q3",
+      "category": "program_requirements",
+      "expected_notes": "Major requirements total 56 credits.",
+      "question": "How many credits are required for the Integrated Sciences major requirements?",
+      "answer": "To formally declare Major or Minor in Integrated Sciences, students need to complete at least one of the two required foundational IS courses (General Chemistry or Introductory Biology).",
+      "used_fallback": false,
+      "avg_score": 0.6806,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.7017
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 7,
+          "score": 0.6952
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 9,
+          "score": 0.6691
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6686
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.6682
+        }
+      ]
+    },
+    {
+      "id": "Q4",
+      "category": "academic_policies",
+      "expected_notes": "Students must complete Capstone I and II, and the Capstone must be graded as Honor pass.",
+      "question": "What are the requirements to graduate with Honors in Integrated Sciences?",
+      "answer": "To graduate with Honors in Integrated Sciences, students must complete Capstone I and Capstone II. The Capstone must be graded as a \"Honor pass.\" Additionally, they must apply and get faculty approval to do Capstone. The outcome is usually a scientific research report accompanied by an oral defense. More detailed guidelines can be found in the Integrated Sciences Capstone Handbook.",
+      "used_fallback": false,
+      "avg_score": 0.6934,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.7458
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 6,
+          "score": 0.7007
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6769
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 9,
+          "score": 0.6735
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 7,
+          "score": 0.6702
+        }
+      ]
+    },
+    {
+      "id": "Q5",
+      "category": "academic_policies",
+      "expected_notes": "Students must complete at least one of General Chemistry or Introductory Biology before declaring.",
+      "question": "What must a student complete before formally declaring a Major or Minor in Integrated Sciences?",
+      "answer": "To formally declare a Major or Minor in Integrated Sciences, students need to complete at least one of the two required foundational IS courses (General Chemistry or Introductory Biology).",
+      "used_fallback": false,
+      "avg_score": 0.7026,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.7505
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.7403
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6907
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 9,
+          "score": 0.6689
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 1,
+          "score": 0.6626
+        }
+      ]
+    },
+    {
+      "id": "Q6",
+      "category": "courses",
+      "expected_notes": "IS205 Organic Chemistry prerequisite is IS105.",
+      "question": "What is the prerequisite for IS205 Organic Chemistry?",
+      "answer": "Upon satisfactory completion of this course, students will be able to:\n\n1. Understand the bonding models and how they can explain molecules' properties;\n2. Interpret simple NMR (nuclear magnetic resonance), IR (infrared), and mass spectra of organic compounds;\n3. Explain the mechanism of certain types of chemical reactions;\n4. Critically analyze relevant published studies in organic chemistry;\n5. Perform basic organic lab’s procedures and write lab reports.",
+      "used_fallback": false,
+      "avg_score": 0.6933,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 23,
+          "score": 0.7188
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 18,
+          "score": 0.706
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 23,
+          "score": 0.6923
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 18,
+          "score": 0.6874
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 15,
+          "score": 0.662
+        }
+      ]
+    },
+    {
+      "id": "Q7",
+      "category": "courses",
+      "expected_notes": "IS101 is offered every academic year and has no prerequisite.",
+      "question": "How often is IS101 Introductory Biology offered, and what is its prerequisite?",
+      "answer": "IS101 Introductory Biology is offered every AY (Annual Year).",
+      "used_fallback": false,
+      "avg_score": 0.6303,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 14,
+          "score": 0.6754
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 13,
+          "score": 0.6355
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 21,
+          "score": 0.6326
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 20,
+          "score": 0.606
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 25,
+          "score": 0.6021
+        }
+      ]
+    },
+    {
+      "id": "Q8",
+      "category": "learning_outcomes",
+      "expected_notes": "MLO4 is ethical conduct and social responsibility in scientific research.",
+      "question": "What is Major Learning Outcome 4 (MLO4) in the Integrated Sciences program?",
+      "answer": "Course Alignment with the Major Learning Outcomes (MLOs)\nMLO1. Students will be able to critically analyze primary and secondary scientific research sources.\nMLO2. Students will be able to Apply appropriate qualitative and quantitative scientific methodologies in a specific field of the natural sciences to make evidence-based and scientific conclusions.\nMLO3. Students will be able to demonstrate foundational knowledge in the natural sciences and specialized knowledge in a focused area through effective written and oral formats.\nMLO4. Students will be able to demonstrate ethical conduct and social responsibility in scientific research.\nCourses in the Integrated Sciences major are separated into increasing levels of depth: foundational (100-level), intermediate (200-level), and advanced (300-level). The capstone is optional but highly recommended. Each level aligns with the MLOs as follows:\n\n---\n\n[IS_MajorHandbook.pdf (page 5)]\nMajor Learning Outcomes (MLOs)\nMLO\nno.\nDescription of MLO FUV Graduate\nAttribute\n1 Students will be able to critically analyze primary and secondary scientific research sources.\nGA1, GA2, GA5,\nGA7\n2 Apply appropriate qualitative and quantitative scientific methodologies in a specific field of the natural sciences to make evidence-based and scientific conclusions",
+      "used_fallback": false,
+      "avg_score": 0.6851,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 11,
+          "score": 0.7206
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6959
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 11,
+          "score": 0.6924
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 2,
+          "score": 0.6675
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 14,
+          "score": 0.6492
+        }
+      ]
+    },
+    {
+      "id": "Q9",
+      "category": "program_description",
+      "expected_notes": "The major comprises Biology, Chemistry, and Environmental Science with an integrated approach.",
+      "question": "How does the handbook describe the Integrated Sciences major?",
+      "answer": "The handbook describes the Integrated Sciences major as a single, comprehensive program comprising a variety of fields, including Biology, Chemistry, and Environmental Science. Today’s most urgent scientific problems – from climate change to public health – require an integrated approach. The Handbook emphasizes real-world experience and interdisciplinary approaches to scientific discovery, while also providing a strong foundation for a career in integrated scientific leadership and seeking interconnected solutions informed by several scientific disciplines. Students in the Integrated Sciences major will practice interdisciplinary and research-based approaches to scientific discovery, while also pursuing a specific concentration within the natural sciences: Environmental Science and Sustainability or Biology and Health Science. The Handbook provides a strong foundation for a career in integrated scientific leadership and seeks interconnected solutions informed by several scientific disciplines.",
+      "used_fallback": false,
+      "avg_score": 0.7075,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 1,
+          "score": 0.7968
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.7318
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 9,
+          "score": 0.6852
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.662
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.6617
+        }
+      ]
+    },
+    {
+      "id": "Q10",
+      "category": "minor",
+      "expected_notes": "IS minor is 24 credits / six courses: 2 foundation, 1 math or CS, 3 applied including at least two 300-level.",
+      "question": "What are the course requirements for the Integrated Sciences minor?",
+      "answer": "The Integrated Sciences minor provides a foundation in natural science and scientific thinking through a selection of courses in Chemistry, Biology, Physics, Environmental Science, and Math. The minor is ideal for students who aim to have a basic foundation in the sciences or complement their major study with knowledge and skills in the natural sciences. For example, a student majoring in Computer Science can minor in Integrated Sciences to gain scientific understanding of the discipline where she is applying her computing skills. The result is the application of information technology to study biology or sustainable agriculture. Any student interested in the sciences can pursue a minor in Integrated Sciences, regardless of their major study.",
+      "used_fallback": false,
+      "avg_score": 0.7121,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.7826
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.733
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.6888
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 7,
+          "score": 0.6814
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6747
+        }
+      ]
+    },
+    {
+      "id": "Q11",
+      "category": "likely_incomplete",
+      "expected_notes": "A complete list of every course description is long; a 0.5B model often summarizes incompletely.",
+      "question": "List every Integrated Sciences course code, title, availability, and prerequisite from the catalogue.",
+      "answer": "IS101 Introductory biology\nIS105 General Chemistry\nIS107 Sustainable Development: Science and Industries\nIS109 Humans in the Biosphere HIS, SOCI\nIS101 and one of the following courses: IS203 Principles of neuroscience PSY\nIS205 Organic chemistry\nIS209 Materials that make our world\nIS211 Organismal Diversity and Evolution\nIS212 Cell Biology\nIS214 General Chemistry Laboratory\nIS303 Advanced organic chemistry\nIS306 Human Physiology\nIS308 Human Genetics and Genomics\nIS312 Biometry\nIS313 Life cycle assessment\nIS101 and one of the following courses: IS212 or IS203\nIS308 Human Genetics and Genomics\nIS312 Biometry\nIS313 Life cycle assessment\nIS101 and one of the following courses: IS212 or IS203\nIS308 Human Genetics and Genomics\nIS312 Biometry\nIS313 Life cycle assessment\nIS101 and one of the following courses: IS212 or IS203",
+      "used_fallback": false,
+      "avg_score": 0.6293,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 13,
+          "score": 0.6715
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.6288
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 1,
+          "score": 0.618
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 11,
+          "score": 0.6156
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6127
+        }
+      ]
+    },
+    {
+      "id": "Q12",
+      "category": "likely_ambiguous",
+      "expected_notes": "The handbook does not tell a student which concentration is better.",
+      "question": "Which Integrated Sciences concentration is better for me if I like both climate change and medicine?",
+      "answer": "To determine which Integrated Sciences concentration is better for you, I'll analyze the information provided in the handbook:\n\n1. **Environmental Science and Sustainability**: This concentration is described as \"Environmental Science and Sustainability\" and \"Sustainable Development: Science and Industries\". It is mentioned that this concentration shares the same degree requirements as the Environmental Science and Sustainability concentration. The handbook states that the Integrated Sciences major provides a strong foundation for a career in industry as well as future graduate study.\n\n2. **Biology and Health Science**: This concentration is described as \"Biology and Health Science\" and \"Human Health\". It is mentioned that this concentration shares the same degree requirements as the Biology and Health Science concentration. The handbook states that the Integrated Sciences major provides a strong foundation for a career in industry as well as future graduate study.\n\nGiven that both concentrations share the same degree requirements and provide a strong foundation for a career in industry, the handbook does not provide specific information about which concentration is better for you. However, based on the information provided, if you like both climate change and medicine, the Integrated Sciences concentration in Biology and Health Science would likely be better for you.\n\n**Conclusion**: If you like both climate change and medicine, the Integrated Sciences concentration in Biology and Health Science would likely be better for",
+      "used_fallback": false,
+      "avg_score": 0.6219,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 9,
+          "score": 0.6599
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6449
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6348
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.5882
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 9,
+          "score": 0.5819
+        }
+      ]
+    },
+    {
+      "id": "Q13",
+      "category": "out_of_document",
+      "expected_notes": "Tuition is not specified in this handbook excerpt.",
+      "question": "How much is the tuition for Integrated Sciences students in 2026?",
+      "answer": "The tuition for Integrated Sciences students in 2026 is not provided in the given context. The handbook does not contain information about tuition rates for Integrated Sciences students.",
+      "used_fallback": false,
+      "avg_score": 0.5822,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 9,
+          "score": 0.5925
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 1,
+          "score": 0.586
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.5809
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 6,
+          "score": 0.5766
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 8,
+          "score": 0.5752
+        }
+      ]
+    },
+    {
+      "id": "Q14",
+      "category": "out_of_document",
+      "expected_notes": "Current faculty names are not the focus of the extracted handbook policies.",
+      "question": "Who is the current chair of the Integrated Sciences program and what is their email address?",
+      "answer": "The current chair of the Integrated Sciences program is not specified in the given context. The handbook does not provide that information.",
+      "used_fallback": false,
+      "avg_score": 0.5877,
+      "sources": [
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.6123
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 6,
+          "score": 0.5877
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 9,
+          "score": 0.5869
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.5763
+        },
+        {
+          "source": "IS_MajorHandbook.pdf",
+          "page": 5,
+          "score": 0.5752
+        }
+      ]
+    }
+  ]
+}

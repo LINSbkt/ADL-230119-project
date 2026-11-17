@@ -1,0 +1,86 @@
+[
+  {
+    "id": "Q1",
+    "category": "program_requirements",
+    "expected_notes": "Two concentrations: Environmental Science and Sustainability; Biology and Health Science.",
+    "question": "What are the two concentrations in the B.S. Integrated Sciences major?"
+  },
+  {
+    "id": "Q2",
+    "category": "program_requirements",
+    "expected_notes": "Required foundation courses are General Chemistry and Introductory Biology (8 credits).",
+    "question": "What are the required foundation courses for the Integrated Sciences major?"
+  },
+  {
+    "id": "Q3",
+    "category": "program_requirements",
+    "expected_notes": "Major requirements total 56 credits.",
+    "question": "How many credits are required for the Integrated Sciences major requirements?"
+  },
+  {
+    "id": "Q4",
+    "category": "academic_policies",
+    "expected_notes": "Students must complete Capstone I and II, and the Capstone must be graded as Honor pass.",
+    "question": "What are the requirements to graduate with Honors in Integrated Sciences?"
+  },
+  {
+    "id": "Q5",
+    "category": "academic_policies",
+    "expected_notes": "Students must complete at least one of General Chemistry or Introductory Biology before declaring.",
+    "question": "What must a student complete before formally declaring a Major or Minor in Integrated Sciences?"
+  },
+  {
+    "id": "Q6",
+    "category": "courses",
+    "expected_notes": "IS205 Organic Chemistry prerequisite is IS105.",
+    "question": "What is the prerequisite for IS205 Organic Chemistry?"
+  },
+  {
+    "id": "Q7",
+    "category": "courses",
+    "expected_notes": "IS101 is offered every academic year and has no prerequisite.",
+    "question": "How often is IS101 Introductory Biology offered, and what is its prerequisite?"
+  },
+  {
+    "id": "Q8",
+    "category": "learning_outcomes",
+    "expected_notes": "MLO4 is ethical conduct and social responsibility in scientific research.",
+    "question": "What is Major Learning Outcome 4 (MLO4) in the Integrated Sciences program?"
+  },
+  {
+    "id": "Q9",
+    "category": "program_description",
+    "expected_notes": "The major comprises Biology, Chemistry, and Environmental Science with an integrated approach.",
+    "question": "How does the handbook describe the Integrated Sciences major?"
+  },
+  {
+    "id": "Q10",
+    "category": "minor",
+    "expected_notes": "IS minor is 24 credits / six courses: 2 foundation, 1 math or CS, 3 applied including at least two 300-level.",
+    "question": "What are the course requirements for the Integrated Sciences minor?"
+  },
+  {
+    "id": "Q11",
+    "category": "likely_incomplete",
+    "expected_notes": "A complete list of every course description is long; a 0.5B model often summarizes incompletely.",
+    "question": "List every Integrated Sciences course code, title, availability, and prerequisite from the catalogue."
+  },
+  {
+    "id": "Q12",
+    "category": "likely_ambiguous",
+    "expected_notes": "The handbook does not tell a student which concentration is better.",
+    "question": "Which Integrated Sciences concentration is better for me if I like both climate change and medicine?"
+  },
+  {
+    "id": "Q13",
+    "category": "out_of_document",
+    "expected_notes": "Tuition is not specified in this handbook excerpt.",
+    "question": "How much is the tuition for Integrated Sciences students in 2026?"
+  },
+  {
+    "id": "Q14",
+    "category": "out_of_document",
+    "expected_notes": "Current faculty names are not the focus of the extracted handbook policies.",
+    "question": "Who is the current chair of the Integrated Sciences program and what is their email address?"
+  }
+]

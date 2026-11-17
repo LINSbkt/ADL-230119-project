@@ -1,0 +1,18 @@
+Offline handbook inspection (no Ollama). Command:
+  conda run -n rag python scripts/inspect_handbook.py
+
+File: IS_MajorHandbook.pdf
+Pages with text: 30
+Chunks (size=1000, overlap=200): 82
+Sample pages:
+  page 1: Undergraduate Major Handbook B.S. INTEGRATED SCIENCES
+  page 2: table of contents including Mission, Vision, Graduate Attributes
+  page 3: University mission text
+
+Keyword page hits:
+  Environmental Science and Sustainability: pages [5, 9, 17]
+  Biology and Health Science: pages [9]
+  Introductory Biology: pages [7, 8, 9, 10, 11, 13, 14]
+  General Chemistry: pages [7, 8, 10, 11, 13, 15, 22]
+  Capstone: pages [7, 8, 9, 10, 11, 12]
+  MLO: pages [2, 5, 11, 12, 14, 15, 16, 17]
